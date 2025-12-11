@@ -1,3 +1,6 @@
-num1 = int(input("Enter a num1:"))
-num2 = int(input("Enter a num2:"))
-print("Addition is:", num1+num2)
+def add(num1,num2):
+    print('Add is:', num1+num2)
+
+def subtract(num1,num2):
+    print('subtract is:', num1 + num2)
+    
